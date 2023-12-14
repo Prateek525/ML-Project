@@ -1,0 +1,286 @@
+Player,Tm,Pos,Status,Injury Comment,Practice Status
+Trent Sherfield,BUF,WR,0,Ankle,Limited Participation In Practice
+Jordan Phillips,BUF,DT,0,Knee,Limited Participation In Practice
+Micah Hyde,BUF,S,0,Neck,Limited Participation In Practice
+Christian Benford,BUF,CB,0,Hamstring,Limited Participation In Practice
+Dorian Williams,BUF,LB,0,Knee,Limited Participation In Practice
+Cameron Lewis,BUF,CB,0,Shoulder,Limited Participation In Practice
+Hayden Hurst,CAR,TE,0,Concussion,Did Not Participate In Practice
+C.J. Henderson,CAR,CB,1,Concussion,Did Not Participate In Practice
+DeShawn Williams,CAR,DT,0,Not Injury Related,Did Not Participate In Practice
+DJ Chark,CAR,WR,1,Elbow,Full Participation In Practice
+Stephen Sullivan,CAR,TE,1,Shoulder,Full Participation In Practice
+Ian Thomas,CAR,TE,0,Calf,Full Participation In Practice
+Xavier Woods,CAR,S,0,Thigh,Full Participation In Practice
+Austin Corbett,CAR,G,0,Calf,Full Participation In Practice
+Laviska Shenault Jr.,CAR,WR,0,Ankle,Full Participation In Practice
+Taylor Moton,CAR,T,1,Rest,Full Participation In Practice
+Bryce Young,CAR,QB,1,Thigh,Full Participation In Practice
+Brian Burns,CAR,OLB,1,Concussion,Limited Participation In Practice
+Marquis Haynes,CAR,OLB,0,Back,Limited Participation In Practice
+Jaycee Horn,CAR,CB,1,Hamstring,Limited Participation In Practice
+Marcedes Lewis,CHI,TE,1,Rest,Did Not Participate In Practice
+Tremaine Edmunds,CHI,LB,0,Knee,Did Not Participate In Practice
+Jack Sanborn,CHI,LB,0,Ankle,Full Participation In Practice
+Khalil Herbert,CHI,RB,0,Ankle,Full Participation In Practice
+Nate Davis,CHI,OL,0,Ankle,Full Participation In Practice
+Terell Smith,CHI,DB,0,Illness,Full Participation In Practice
+Khari Blasingame,CHI,FB,0,Concussion,Full Participation In Practice
+Justin Fields,CHI,QB,1,Thumb,Full Participation In Practice
+Noah Sewell,CHI,LB,1,Knee,Limited Participation In Practice
+D'Onta Foreman,CHI,RB,1,Ankle,Limited Participation In Practice
+Tee Higgins,CIN,WR,0,Hamstring,Did Not Participate In Practice
+Andrei Iosivas,CIN,WR,0,Knee,Did Not Participate In Practice
+Sam Hubbard,CIN,DE,0,Ankle,Did Not Participate In Practice
+Charlie Jones,CIN,WR,0,Thumb,Full Participation In Practice
+Akeem Davis-Gaither,CIN,LB,0,Knee,Full Participation In Practice
+Trey Hendrickson,CIN,DE,0,Knee,Full Participation In Practice
+D.J. Reader,CIN,DT,0,NIR - Rest,Full Participation In Practice
+Josh Tupou,CIN,DT,0,Shoulder,Full Participation In Practice
+Chidobe Awuzie,CIN,CB,1,Knee,Full Participation In Practice
+Cam Taylor-Britt,CIN,CB,1,Finger,Full Participation In Practice
+Matthew Adams,CLE,LB,1,NIR - Personal,Did Not Participate In Practice
+Juan Thornhill,CLE,S,1,Calf,Did Not Participate In Practice
+Marquise Goodwin,CLE,WR,1,Concussion,Did Not Participate In Practice
+Rodney McLeod,CLE,S,1,Rest,Did Not Participate In Practice
+Joel Bitonio,CLE,G,1,Rest,Did Not Participate In Practice
+Za'Darius Smith,CLE,DE,1,Rest,Did Not Participate In Practice
+Amari Cooper,CLE,WR,1,Rest,Did Not Participate In Practice
+Anthony Walker,CLE,LB,1,Rest,Did Not Participate In Practice
+Denzel Ward,CLE,CB,1,Neck,Full Participation In Practice
+Greg Newsome II,CLE,CB,1,Groin,Full Participation In Practice
+Alex Wright,CLE,DE,1,Knee,Full Participation In Practice
+Michael Dunn,CLE,G,0,Calf,Full Participation In Practice
+Wyatt Teller,CLE,G,1,Ankle,Full Participation In Practice
+Pierre Strong,CLE,RB,1,Hamstring,Full Participation In Practice
+Grant Delpit,CLE,S,1,Rest,Limited Participation In Practice
+David Njoku,CLE,TE,1,Rest,Limited Participation In Practice
+Ogbonnia Okoronkwo,CLE,DE,1,Groin,Limited Participation In Practice
+Dawand Jones,CLE,T,0,Knee,Limited Participation In Practice
+David Bell,CLE,WR,0,Knee,Limited Participation In Practice
+Zach Pascal,ARI,WR,0,Hamstring,Did Not Participate In Practice
+Jonathan Ledbetter,ARI,DL,1,Shoulder,Did Not Participate In Practice
+Joey Blount,ARI,S,0,Knee,Did Not Participate In Practice
+Michael Carter,ARI,RB,0,NIR - Rest,Did Not Participate In Practice
+Emari Demercado,ARI,RB,0,Toe,Limited Participation In Practice
+Zeke Turner,ARI,LB,0,Hamstring,Limited Participation In Practice
+Kevin Strong,ARI,DL,0,Knee,Limited Participation In Practice
+D.J. Humphries,ARI,OL,0,Ankle,Limited Participation In Practice
+Jesse Luketa,ARI,OLB,0,Ankle,Limited Participation In Practice
+Trystan Colon-Castillo,ARI,OL,1,Calf,Limited Participation In Practice
+Tyron Smith,DAL,T,1,NIR - Rest,Did Not Participate In Practice
+Jalen Tolbert,DAL,WR,1,Knee,Full Participation In Practice
+Jourdan Lewis,DAL,CB,1,Neck,Full Participation In Practice
+Osa Odighizuwa,DAL,DT,1,Hamstring,Full Participation In Practice
+Peyton Hendershot,DAL,TE,1,Ankle,Full Participation In Practice
+Viliami Fehoko,DAL,DE,0,Knee,Full Participation In Practice
+KaVontae Turpin,DAL,WR,0,Shoulder,Full Participation In Practice
+Rico Dowdle,DAL,RB,0,Ankle,Full Participation In Practice
+P.J. Locke,DEN,S,0,Ankle,Did Not Participate In Practice
+Ben Powers,DEN,G,0,Foot,Did Not Participate In Practice
+Marvin Mims,DEN,WR,1,Ankle,Full Participation In Practice
+Baron Browning,DEN,OLB,0,Wrist,Full Participation In Practice
+Ronnie Perkins,DEN,LB,1,Quad,Full Participation In Practice
+Jerry Jeudy,DEN,WR,1,Hip,Limited Participation In Practice
+Jonah Jackson,DET,G,1,Wrist,Did Not Participate In Practice
+Frank Ragnow,DET,C,0,Toe,Did Not Participate In Practice
+Isaiah Buggs,DET,DL,0,Illness,Did Not Participate In Practice
+Levi Onwuzurike,DET,DL,0,Hip,Full Participation In Practice
+Kalif Raymond,DET,WR,0,Ankle,Full Participation In Practice
+Ifeatu Melifonwu,DET,S,0,Hand,Full Participation In Practice
+Donovan Peoples-Jones,DET,WR,1,Ribs,Full Participation In Practice
+Rudy Ford,GNB,S,1,Biceps,Did Not Participate In Practice
+Jon Runyan Jr.,GNB,G,1,Neck,Full Participation In Practice
+Yosh Nijman,GNB,T,1,Back,Full Participation In Practice
+Jaire Alexander,GNB,CB,1,Shoulder,Limited Participation In Practice
+Elgton Jenkins,GNB,OL,1,Knee,Limited Participation In Practice
+Quay Walker,GNB,LB,1,Groin,Limited Participation In Practice
+Christian Watson,GNB,WR,0,Shoulder,Limited Participation In Practice
+Kenny Clark,GNB,DL,0,Shoulder,Limited Participation In Practice
+Aaron Jones,GNB,RB,0,Hamstring,Limited Participation In Practice
+Henry To'oTo'o,HOU,LB,0,Concussion,Did Not Participate In Practice
+Dameon Pierce,HOU,RB,0,Ankle,Did Not Participate In Practice
+Jimmie Ward,HOU,S,1,Hamstring,Did Not Participate In Practice
+Jake Hansen,HOU,LB,0,Hamstring,Did Not Participate In Practice
+Noah Brown,HOU,WR,1,Knee,Did Not Participate In Practice
+Jonathan Greenard,HOU,DE,0,Shoulder,Full Participation In Practice
+Charlie Heck,HOU,T,0,Back,Full Participation In Practice
+Andrew Beck,HOU,FB,1,Ankle,Full Participation In Practice
+Jerry Hughes,HOU,DE,1,Back,Full Participation In Practice
+Will Anderson,HOU,DE,0,Knee,Full Participation In Practice
+Robert Woods,HOU,WR,0,Foot,Full Participation In Practice
+Laremy Tunsil,HOU,T,0,Knee,Full Participation In Practice
+Kurt Hinish,HOU,DT,0,Knee,Full Participation In Practice
+Tytus Howard,HOU,T,0,Knee,Full Participation In Practice
+Dalton Schultz,HOU,TE,1,Hamstring,Full Participation In Practice
+Steven Nelson,HOU,CB,1,Back,Full Participation In Practice
+Nico Collins,HOU,WR,1,Calf,Limited Participation In Practice
+Brevin Jordan,HOU,TE,0,Foot,Limited Participation In Practice
+Grayland Arnold,HOU,S,0,Calf,Limited Participation In Practice
+George Fant,HOU,T,0,Hip,Limited Participation In Practice
+Tyson Campbell,JAX,CB,0,Hamstring,Did Not Participate In Practice
+Jamal Agnew,JAX,WR,0,Shoulder,Did Not Participate In Practice
+Roy Robertson-Harris,JAX,DL,0,Ankle,Limited Participation In Practice
+Anton Harrison,JAX,T,1,Back,Limited Participation In Practice
+Parker Washington,JAX,WR,1,Knee,Limited Participation In Practice
+Zay Jones,JAX,WR,1,Knee,Limited Participation In Practice
+Jerick McKinnon,KAN,RB,0,Groin,Full Participation In Practice
+Justin Watson,KAN,WR,0,Elbow,Full Participation In Practice
+Clyde Edwards-Helaire,KAN,RB,0,Illness,Full Participation In Practice
+Justin Reid,KAN,S,0,Calf,Full Participation In Practice
+Richie James,KAN,WR,0,Knee,Full Participation In Practice
+L'Jarius Sneed,KAN,CB,0,Knee,Full Participation In Practice
+Kadarius Toney,KAN,WR,0,Ankle,Full Participation In Practice
+Tommy Townsend,KAN,P,1,Wrist,Full Participation In Practice
+Drue Tranquill,KAN,LB,1,Shoulder,Full Participation In Practice
+Robert Jones,MIA,OL,1,Knee,Did Not Participate In Practice
+Robert Hunt,MIA,OL,0,Hamstring,Did Not Participate In Practice
+Chase Claypool,MIA,WR,0,Knee,Did Not Participate In Practice
+Salvon Ahmed,MIA,RB,0,Rib,Full Participation In Practice
+Jaelan Phillips,MIA,LB,0,Back,Full Participation In Practice
+Jevon Holland,MIA,S,0,Back,Full Participation In Practice
+Jaylen Waddle,MIA,WR,0,Knee,Full Participation In Practice
+De'Von Achane,MIA,RB,0,Knee,Limited Participation In Practice
+Terron Armstead,MIA,T,1,Knee,Limited Participation In Practice
+Alec Ingold,MIA,FB,0,Hamstring,Limited Participation In Practice
+Braxton Berrios,MIA,WR,0,Hamstring,Limited Participation In Practice
+Raheem Mostert,MIA,RB,0,Ankle,Limited Participation In Practice
+Durham Smythe,MIA,TE,0,Ankle,Limited Participation In Practice
+Akayleb Evans,MIN,CB,1,Calf,Did Not Participate In Practice
+Greg Joseph,MIN,K,1,NIR - Personal,Did Not Participate In Practice
+Dean Lowry,MIN,DL,1,Groin,Full Participation In Practice
+Jaren Hall,MIN,QB,0,Concussion,Full Participation In Practice
+K.J. Osborn,MIN,WR,0,Concussion,Full Participation In Practice
+Chris Reed,MIN,OL,0,Foot,Full Participation In Practice
+Joshua Dobbs,MIN,QB,1,Ankle,Full Participation In Practice
+Alexander Mattison,MIN,RB,0,Concussion,Limited Participation In Practice
+Brian Asamoah,MIN,LB,0,Ankle,Limited Participation In Practice
+T.J. Hockenson,MIN,TE,0,Ribs,Limited Participation In Practice
+Nick Mullens,MIN,QB,0,Back,Limited Participation In Practice
+Justin Jefferson,MIN,WR,0,Hamstring,Limited Participation In Practice
+Evan Neal,NYG,T,0,Ankle,Did Not Participate In Practice
+Adoree' Jackson,NYG,CB,0,Concussion,Did Not Participate In Practice
+Tommy DeVito,NYG,QB,1,Shoulder,Full Participation In Practice
+Jason Pinnock,NYG,S,0,Thumb,Full Participation In Practice
+Dexter Lawrence,NYG,DL,0,Rest,Full Participation In Practice
+Xavier McKinney,NYG,S,0,Rib,Full Participation In Practice
+Deon Jackson,NYG,RB,0,Concussion,Full Participation In Practice
+Bobby Okereke,NYG,LB,0,Hip,Limited Participation In Practice
+Wan'Dale Robinson,NYG,WR,0,Knee,Limited Participation In Practice
+Cordale Flott,NYG,CB,0,Shoulder,Limited Participation In Practice
+Azeez Ojulari,NYG,OLB,1,Ankle,Limited Participation In Practice
+Jalin Hyatt,NYG,WR,0,Concussion,Limited Participation In Practice
+Kayvon Thibodeaux,NYG,OLB,0,Concussion,Limited Participation In Practice
+Andrew Thomas,NYG,T,0,Knee,Limited Participation In Practice
+Saquon Barkley,NYG,RB,1,Ankle,Limited Participation In Practice
+Deonte Banks,NYG,CB,0,Ankle,Limited Participation In Practice
+Chazz Surratt,NYJ,LB,0,Ankle,Did Not Participate In Practice
+Billy Turner,NYJ,T,0,Finger,Did Not Participate In Practice
+Samuel Eguavoen,NYJ,LB,0,Hip,Did Not Participate In Practice
+John Franklin-Myers,NYJ,DL,0,Knee,Full Participation In Practice
+Quincy Williams,NYJ,LB,0,Knee,Full Participation In Practice
+Kenny Yeboah,NYJ,TE,0,Hamstring,Full Participation In Practice
+Duane Brown,NYJ,T,0,Hip,Full Participation In Practice
+Will McDonald,NYJ,DL,1,Ankle,Limited Participation In Practice
+Garrett Wilson,NYJ,WR,0,Elbow,Limited Participation In Practice
+Mekhi Becton,NYJ,T,0,Knee,Limited Participation In Practice
+Derrick Henry,TEN,RB,0,NIR - Rest,Did Not Participate In Practice
+Andre Dillard,TEN,T,0,Concussion,Did Not Participate In Practice
+Anthony Kendall,TEN,CB,0,Hamstring,Did Not Participate In Practice
+Treylon Burks,TEN,WR,0,Concussion,Did Not Participate In Practice
+DeAndre Hopkins,TEN,WR,0,NIR - Rest,Did Not Participate In Practice
+Ryan Tannehill,TEN,QB,1,Ankle,Full Participation In Practice
+Will Levis,TEN,QB,0,Foot,Full Participation In Practice
+Mike Brown,TEN,S,0,Ankle,Full Participation In Practice
+Eric Garror,TEN,DB,0,Neck,Full Participation In Practice
+Jack Gibbens,TEN,LB,0,Shoulder,Full Participation In Practice
+Daniel Brunskill,TEN,OL,1,Ankle,Limited Participation In Practice
+Denico Autry,TEN,DL,0,NIR - Rest,Limited Participation In Practice
+Sean Murphy-Bunting,TEN,CB,0,Thumb,Limited Participation In Practice
+Luke Gifford,TEN,LB,0,Shin,Limited Participation In Practice
+Dallas Goedert,PHI,TE,0,Forearm,Did Not Participate In Practice
+Bradley Roby,PHI,CB,0,Shoulder,Full Participation In Practice
+Cam Jurgens,PHI,OL,0,Foot,Full Participation In Practice
+Grant Calcaterra,PHI,TE,1,Concussion,Full Participation In Practice
+Justin Evans,PHI,S,0,Knee,Limited Participation In Practice
+Minkah Fitzpatrick,PIT,S,0,Hamstring,Did Not Participate In Practice
+Montravius Adams,PIT,DT,0,Ankle,Did Not Participate In Practice
+Keanu Neal,PIT,S,0,Rib,Did Not Participate In Practice
+Patrick Peterson,PIT,CB,0,NIR - Rest,Did Not Participate In Practice
+Isaac Seumalo,PIT,G,0,NIR - Rest,Did Not Participate In Practice
+Pat Freiermuth,PIT,TE,1,Hamstring,Full Participation In Practice
+Diontae Johnson,PIT,WR,0,Thumb,Full Participation In Practice
+Cameron Heyward,PIT,DT,0,Groin,Limited Participation In Practice
+Adam Butler,LVR,DT,0,Knee,Full Participation In Practice
+Nate Hobbs,LVR,CB,1,Ankle,Full Participation In Practice
+Curtis Bolton,LVR,LB,0,Illness,Full Participation In Practice
+Divine Deablo,LVR,LB,0,Ankle,Full Participation In Practice
+Jakob Johnson,LVR,FB,0,Concussion,Full Participation In Practice
+Greg Van Roten,LVR,G,0,Biceps,Limited Participation In Practice
+Roderic Teamer,LVR,S,0,Hamstring,Limited Participation In Practice
+Maxx Crosby,LVR,DE,0,Knee,Limited Participation In Practice
+Kolton Miller,LVR,T,0,Shoulder,Limited Participation In Practice
+Amik Robertson,LVR,CB,1,Concussion,Limited Participation In Practice
+Dylan Parham,LVR,G,0,Calf,Limited Participation In Practice
+Marcus Peters,LVR,CB,0,Knee,Limited Participation In Practice
+Hunter Long,LAR,TE,1,Hamstring,Full Participation In Practice
+Ernest Jones,LAR,LB,1,Knee,Full Participation In Practice
+Puka Nacua,LAR,WR,1,Knee,Full Participation In Practice
+Bobby Brown,LAR,NT,0,Knee,Full Participation In Practice
+Matthew Stafford,LAR,QB,1,Thumb,Full Participation In Practice
+Rob Havenstein,LAR,T,1,Calf,Limited Participation In Practice
+Larrell Murchison,LAR,DT,1,Knee,Limited Participation In Practice
+Cobie Durant,LAR,DB,0,Shoulder,Limited Participation In Practice
+Ronnie Stanley,BAL,T,1,Knee,Did Not Participate In Practice
+Devin Duvernay,BAL,WR,1,Hamstring,Did Not Participate In Practice
+Trenton Simpson,BAL,LB,1,Concussion,Did Not Participate In Practice
+Jadeveon Clowney,BAL,OLB,1,Rest,Did Not Participate In Practice
+Odell Beckham Jr.,BAL,WR,1,Rest,Did Not Participate In Practice
+Marlon Humphrey,BAL,CB,1,Calf,Did Not Participate In Practice
+John Simpson,BAL,G,1,Illness,Full Participation In Practice
+Kyle Van Noy,BAL,OLB,1,Groin,Full Participation In Practice
+Daryl Worley,BAL,CB,1,Hamstring,Full Participation In Practice
+Morgan Moses,BAL,T,1,Shoulder,Full Participation In Practice
+Gerald Everett,LAC,TE,1,Back,Did Not Participate In Practice
+Khalil Mack,LAC,OLB,1,Rest,Did Not Participate In Practice
+Alohi Gilman,LAC,S,1,Elbow,Full Participation In Practice
+Rashawn Slater,LAC,T,0,Knee,Full Participation In Practice
+Joey Bosa,LAC,OLB,0,Hand,Full Participation In Practice
+JT Woods,LAC,S,0,Illness,Limited Participation In Practice
+Donald Parham,LAC,TE,1,Hip,Limited Participation In Practice
+Sebastian Joseph-Day,LAC,DL,0,Knee,Limited Participation In Practice
+Keenan Allen,LAC,WR,1,Shoulder,Limited Participation In Practice
+Dareke Young,SEA,WR,1,Abdomen,Did Not Participate In Practice
+Tyler Lockett,SEA,WR,1,Hamstring,Did Not Participate In Practice
+Leonard Williams,SEA,DL,0,Rest,Did Not Participate In Practice
+Jordyn Brooks,SEA,LB,0,Knee,Full Participation In Practice
+Anthony Bradford,SEA,G,0,Knee,Full Participation In Practice
+Damien Lewis,SEA,G,1,Back,Full Participation In Practice
+Michael Dickson,SEA,P,1,Hamstring,Full Participation In Practice
+Tre Brown,SEA,CB,1,Toe,Full Participation In Practice
+Jamal Adams,SEA,SS,0,Knee,Limited Participation In Practice
+Abraham Lucas,SEA,T,0,Knee,Limited Participation In Practice
+Colby Parkinson,SEA,TE,0,Biceps,Limited Participation In Practice
+Nick Zakelj,SFO,OL,0,Biceps,Did Not Participate In Practice
+Aaron Banks,SFO,OL,1,Toe,Did Not Participate In Practice
+Darrell Luter,SFO,CB,0,Knee,Full Participation In Practice
+Robert Beal,SFO,DL,0,Hamstring,Full Participation In Practice
+Trent Williams,SFO,T,0,Rest,Full Participation In Practice
+Samuel Womack,SFO,CB,0,Knee,Full Participation In Practice
+Colton McKivitz,SFO,OL,1,Ankle,Limited Participation In Practice
+Demetrius Flannigan-Fowles,SFO,LB,0,Ankle,Limited Participation In Practice
+Ryan Neal,TAM,S,0,Thumb,Did Not Participate In Practice
+Josh Hayes,TAM,DB,0,Concussion,Full Participation In Practice
+Carlton Davis,TAM,CB,1,Toe,Full Participation In Practice
+Matt Feiler,TAM,OL,0,Knee,Full Participation In Practice
+Mike Evans,TAM,WR,0,Quadriceps,Full Participation In Practice
+Devin White,TAM,LB,0,Foot,Limited Participation In Practice
+Luke Goedeke,TAM,G,1,Foot,Limited Participation In Practice
+Alex Armah,WAS,RB,0,Hamstring,Did Not Participate In Practice
+Antonio Gibson,WAS,RB,0,Toe,Did Not Participate In Practice
+Tyler Larsen,WAS,C,1,NIR - Personal,Did Not Participate In Practice
+James Smith-Williams,WAS,DE,0,Hamstring,Did Not Participate In Practice
+Kendall Fuller,WAS,CB,0,NIR - Rest,Did Not Participate In Practice
+Jonathan Allen,WAS,DT,1,NIR - Rest,Did Not Participate In Practice
+Benjamin St-Juste,WAS,CB,0,Illness,Full Participation In Practice
+Curtis Samuel,WAS,WR,0,Toe,Limited Participation In Practice
